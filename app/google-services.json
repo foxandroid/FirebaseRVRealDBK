@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "607110109712",
+    "firebase_url": "https://fir-rvrealtimek-default-rtdb.firebaseio.com",
+    "project_id": "fir-rvrealtimek",
+    "storage_bucket": "fir-rvrealtimek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607110109712:android:7dfd0a7d00ce62669d8895",
+        "android_client_info": {
+          "package_name": "com.example.firebaservrealdbk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607110109712-b2v3gh8tqjgrufubikkri8tb3hj4f47o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApKzLB08kNeqHvF0tHYyojLK23QRq0cIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607110109712-b2v3gh8tqjgrufubikkri8tb3hj4f47o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607110109712:android:6175bbd09f7433609d8895",
+        "android_client_info": {
+          "package_name": "com.example.firebaservrealtimek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607110109712-b2v3gh8tqjgrufubikkri8tb3hj4f47o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApKzLB08kNeqHvF0tHYyojLK23QRq0cIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607110109712-b2v3gh8tqjgrufubikkri8tb3hj4f47o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
